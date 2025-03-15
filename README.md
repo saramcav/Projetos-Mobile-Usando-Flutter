@@ -11,7 +11,7 @@ Um aplicativo interativo em que o jogador deve adivinhar um número secreto esco
 
 A pontuação inicial é 1000 pontos, sendo reduzida em função da diferença entre o chute e o número secreto.
 
-🔹 **Principais funcionalidades:**
+**Principais funcionalidades:**
 - Cálculo de pontuação dinâmica
 - Exibição de feedback para cada tentativa
 
@@ -19,7 +19,7 @@ A pontuação inicial é 1000 pontos, sendo reduzida em função da diferença e
 
 Um aplicativo que rastreia informações sobre a COVID-19 em tempo real, utilizando a API [Covid 19 Brazil](https://covid19-brazil-api-docs.vercel.app/). Os usuários podem visualizar dados globais, nacionais ou consultar informações de um país específico.
 
-🔹 **Principais funcionalidades:**
+**Principais funcionalidades:**
 - Consulta de dados da COVID-19 via API
 - Filtros de pesquisa:
   - **Brasil** (dados gerais, por estado e por data)
