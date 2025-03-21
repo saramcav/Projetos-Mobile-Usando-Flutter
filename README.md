@@ -52,7 +52,7 @@ Um aplicativo que rastreia informações sobre a COVID-19 em tempo real, utiliza
 
 Um aplicativo de gerenciamento de tarefas com operações CRUD (Create, Read, Update, Delete) armazenadas localmente no banco de dados SQLite.
 
-🔹 **Principais funcionalidades:**
+**Principais funcionalidades:**
 - Persistência de dados local com SQLite
 - Adição, edição e remoção de tarefas
 - Exibição de tarefas armazenadas no banco local
