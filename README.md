@@ -15,6 +15,14 @@ A pontuação inicial é 1000 pontos, sendo reduzida em função da diferença e
 - Cálculo de pontuação dinâmica
 - Exibição de feedback para cada tentativa
 
+**Imagens do App**
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagens_readme/adivinhacao/app_adivinhacao1.png" width="30%" />
+  <img src="imagens_readme/adivinhacao/app_adivinhacao2.png" width="30%" />
+  <img src="imagens_readme/adivinhacao/app_adivinhacao3.png" width="30%" />
+</div>
+
 ## COVID-19 Tracker
 
 Um aplicativo que rastreia informações sobre a COVID-19 em tempo real, utilizando a API [Covid 19 Brazil](https://covid19-brazil-api-docs.vercel.app/). Os usuários podem visualizar dados globais, nacionais ou consultar informações de um país específico.
@@ -27,6 +35,19 @@ Um aplicativo que rastreia informações sobre a COVID-19 em tempo real, utiliza
   - **Consulta por país** (seleção individual)
 - Exibição de estatísticas: casos confirmados, mortes, suspeitos, recuperados, entre outros.
 
+**Imagens do App**
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagens_readme/covid/app_covid1.png" width="30%" />
+  <img src="imagens_readme/covid/app_covid2.png" width="30%" />
+  <img src="imagens_readme/covid/app_covid3.png" width="30%" />
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagens_readme/covid/app_covid4.png" width="30%" />
+  <img src="imagens_readme/covid/app_covid5.png" width="30%" />
+</div>
+
 ## Lista de Tarefas com SQLite
 
 Um aplicativo de gerenciamento de tarefas com operações CRUD (Create, Read, Update, Delete) armazenadas localmente no banco de dados SQLite.
@@ -35,3 +56,16 @@ Um aplicativo de gerenciamento de tarefas com operações CRUD (Create, Read, Up
 - Persistência de dados local com SQLite
 - Adição, edição e remoção de tarefas
 - Exibição de tarefas armazenadas no banco local
+
+**Imagens do App**
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagens_readme/lista_tarefas/calendario.png" width="30%" />
+  <img src="imagens_readme/lista_tarefas/mensagem_edicao.png" width="30%" />
+  <img src="imagens_readme/lista_tarefas/edicao.png" width="30%" />
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagens_readme/lista_tarefas/mesagem_exclusao.png" width="30%" />
+  <img src="imagens_readme/lista_tarefas/exclusao.png" width="30%" />
+</div>
